@@ -13,6 +13,7 @@ void metropolisJoint()
 
         getSites();
     
+    printf("JUN RULEZ!!!!\n");
     
         /********* STIFFEN SEGMENTS *******************/
     
